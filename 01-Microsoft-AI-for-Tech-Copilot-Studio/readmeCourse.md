@@ -22,6 +22,15 @@
 
 ---
 
+> #### ⚜️ Detalhe deste Bootcamp
+
+- IA na ponta dos seus dedos!
+- Desenvolver agentes e plugins de IA personalizados com o Microsoft Copilot Studio, criando chatbots inteligentes e automatizando interações de forma eficiente.
+- Gerenciando eventos, integrando soluções com modelos pré-prontos e acelerando o desenvolvimento com uma abordagem low-code.
+- Otimizando a escalabilidade das soluções e tornando a implementação de IA mais acessível, ágil e estratégica.
+
+---
+
 > #### 🛠️ FERRAMENTAS UTILIZADAS
 
 - Microsoft Excel 365 📊
