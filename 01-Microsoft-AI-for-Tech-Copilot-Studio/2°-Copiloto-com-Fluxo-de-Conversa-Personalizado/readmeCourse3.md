@@ -48,6 +48,13 @@
 <img width="400" align="center" src="./img/Topico-saudacao.png">
 </div>
 
+- Tópico agente humano criado.
+
+<div align="center">
+<img width="400" align="center" src="./img/agente-humano.png">
+</div>
+<br />
+
 ---
 
 > #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="20" height="20" /> Personalizar uma mensagem de erro do tópico
@@ -55,6 +62,7 @@
 <div align="center">
 <img width="400" align="center" src="./img/erro.png">
 </div>
+<br />
 
 ---
 
@@ -63,14 +71,31 @@
 <div align="center">
 <img width="400" align="center" src="./img/topico-com-ajuste-de-moderacao.png">
 </div>
+<br />
 
 ---
 
 > #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Resultado do desafio
 
+#### O que foi implementado
+
+- Tópico agente humano
+- Customizado tópico saudação para trazer o nome do usuário na conversa
+- Transferência de conversa para agente humano
+  <br /><br />
+
 <div align="center">
 <img width="1000" align="center" src="./img/resultado-topico.png">
 </div>
+<br />
+
+---
+
+> #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Hand with Fingers Splayed Light Skin Tone" width="20" height="20" /> Para testar a funcionalidade, clique no link abaixo
+
+### <strong> <a href="https://copilotstudio.microsoft.com/environments/907fc06d-3b99-ee33-abb6-e5e84a8bdbea/bots/ak_AKAgenteDio/canvas?__version__=2&enableFileAttachment=true">K&D - Agente de Seguros</a> </strong>
+
+---
 
 > #### 🛠️ Ferramentas utilizadas
 
