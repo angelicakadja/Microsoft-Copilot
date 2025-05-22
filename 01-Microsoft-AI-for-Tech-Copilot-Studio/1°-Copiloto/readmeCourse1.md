@@ -86,7 +86,7 @@
 
 > #### 🛠️ FERRAMENTAS UTILIZADAS
 
-- Microsoft Excel 365 📊
+- Microsoft 365 📊
 - Microsoft Copilot Studio 🤖
 - Power Apps - Microsoft 🤖
 - VSCode
